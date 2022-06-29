@@ -1,0 +1,16 @@
+img {
+    width: auto;
+    height: 345px;
+}
+
+body {
+    background-color: #ffe4c4;
+    font-family: Garamond;
+}
+
+p,
+.ingredients,
+.steps {
+    background-color: #e6b983;
+    font-family: Arial;
+}
